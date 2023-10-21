@@ -80,7 +80,6 @@ public class TicTacToe {
     }
 
     public static void aiTurn() {
-        Scanner scan = new Scanner(System.in);
         int x, y;
         System.out.println("Ход компуктера.");
         do {
